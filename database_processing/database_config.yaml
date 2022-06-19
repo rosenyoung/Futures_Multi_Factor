@@ -1,0 +1,13 @@
+database:
+  database1:
+    name: "test1"
+    username: "root"
+    ip: "localhost"
+    port: 3306
+    password: "yang930805"
+  database2:
+    name: "ibapi"
+    username: "root"
+    ip: "localhost"
+    port: 3306
+    password: "yang930805"
